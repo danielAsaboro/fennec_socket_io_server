@@ -14,4 +14,4 @@ dev_dependencies:
   fennec: ^2.1.1
   lints: ^1.0.0
 dependencies:
-  uuid: ^3.0.6
+  uuid: ^4.4.0
